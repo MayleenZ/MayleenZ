@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayleenZ
 - 👀 I’m interested in cybersecurity and web development.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and cloud security.
 - 💞️ I’m looking to collaborate on the back-end of web pages. 
 
 <!---
