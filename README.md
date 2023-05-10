@@ -1,7 +1,12 @@
-## 👋 Hi, I’m @MayleenZ
-### 👀 I’m interested in cybersecurity and web development.
-### 🌱 I’m currently learning Python, Javascript and Cloud Solutions(AWS and GCP).
-### 💞️ I’m looking to collaborate on web pages and fun projects. 
+## 👋 Hi, I’m Mayleen
+ 👀 I am a junior full-stack engineer with a background in security and cloud. 
+ 
+ 🌱 I’m currently learning Python and AWS. 
+ 
+ 💞️ I’m looking to collaborate on web pages and fun projects. 
+ 
+ Follow me on [Medium](https://medium.com/@mayleennyc)
+ 
 
 <!---
 MayleenZ/MayleenZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
