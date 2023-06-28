@@ -4,6 +4,8 @@
  🌱 I’m currently learning Python and AWS. 
  
  💞️ I’m looking to collaborate on web pages and fun projects. 
+
+ Tech Stack: MERN, Javascript, AWS CCP Certified 
  
  Follow me on [Medium](https://medium.com/@mayleennyc)
  
